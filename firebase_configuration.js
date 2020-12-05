@@ -5,13 +5,13 @@ function validateEmail(email) {
 }
 
 var config = {
-    apiKey: "AIzaSyBl1l1Xb_BzTIWoZEQDyFTiORVpcrQvfI0",
-    authDomain: "kaamkaajcomingsoon.firebaseapp.com",
-    databaseURL: "https://kaamkaajcomingsoon.firebaseio.com",
-    projectId: "kaamkaajcomingsoon",
-    storageBucket: "kaamkaajcomingsoon.appspot.com",
-    messagingSenderId: "316475771619",
-    appId: "1:316475771619:web:ee832c0835d5afdad193d6"
+    apiKey: "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+    authDomain: "kkkkkkkkkkkkkkk.firebaseapp.com",
+    databaseURL: "https://kkkkkkkkkkkkkkk.firebaseio.com",
+    projectId: "kkkkkkkkkkkkkkk",
+    storageBucket: "kkkkkkkkkkkkkkk.appspot.com",
+    messagingSenderId: "311111111119",
+    appId: "1:316475771619:web:ee832c0835kkkkkkkkkkkkkkk"
   
 };
 firebase.initializeApp(config);
